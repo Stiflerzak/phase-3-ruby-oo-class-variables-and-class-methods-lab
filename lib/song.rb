@@ -35,4 +35,4 @@ class Song
     end
 end
 
-dabale = Song.new("dabale","fayissa","oromo")
+song1= Song.new("pop that","lilwayne","hiphop")
